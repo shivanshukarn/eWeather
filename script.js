@@ -1,4 +1,5 @@
-let appId = '71f6779186cc32448b4c412eea65b982';
+// let appId = '71f6779186cc32448b4c412eea65b982';
+let appId = '3a29365fe8392ad0f63877e01d780d84';
 let units = 'metric';
 let searchMethod; // q means searching as a string.
 
